@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{873B278F-A1E9-18CD-9E92-66F4D7F600BE}") = "fractalConstruction", "Assembly-CSharp.csproj", "{96E647E8-4336-5F78-186B-939A38F479CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96E647E8-4336-5F78-186B-939A38F479CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E647E8-4336-5F78-186B-939A38F479CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E647E8-4336-5F78-186B-939A38F479CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E647E8-4336-5F78-186B-939A38F479CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
